@@ -1,2 +1,0 @@
-# blank
-Blank WordPress Theme
